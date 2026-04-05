@@ -13,9 +13,11 @@
 ---
 
 ## 🔭 Current Project
-- **SoilGuard: IoT + Machine Learning Irrigation System**  
-  👉 Built using Python, ESP8266, LSTM, SQL, Cloud  
-  👉 Predicts soil moisture with improved efficiency  
+- **Django CRUD Web Application**  
+  👉 Built using Django (Python), HTML, CSS, and SQLite  
+  👉 Implemented full CRUD operations (Create, Read, Update, Delete)  
+  👉 Designed user-friendly interface with dynamic templates  
+  👉 Practicing real-world backend development concepts  
 
 ---
 
@@ -40,7 +42,7 @@
 ---
 
 ## 📄 Resume
-👉 https://drive.google.com/file/d/1hxNy7rJMMvuU-tHKCJHvQl6bxwYjWhSz/view?usp=sharing
+👉 [View My Resume](https://drive.google.com/file/d/1hxNy7rJMMvuU-tHKCJHvQl6bxwYjWhSz/view?usp=sharing)
 
 ---
 
@@ -56,7 +58,7 @@
 `Flask` `Django` `REST APIs`
 
 ### 🗄️ Database
-`MySQL` `SQL`
+`MySQL` `SQL` `SQLite`
 
 ### 🧠 AI/ML
 `TensorFlow` `LSTM` `Pandas`
