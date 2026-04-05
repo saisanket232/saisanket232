@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Final-year Computer Science student (2026)
-- 💻 Currently working as a **Python Full Stack Developer Intern at Parvam Software Solutions**
+- 💻 Python Full Stack Developer Intern at Parvam Software Solutions
 - 🌱 Currently learning **Django, Advanced Backend Development & Machine Learning**
 - 💬 Ask me about **Python, Flask, Django, JavaScript, SQL**
 - ⚡ Fun fact: I think I am funny 😄
@@ -33,19 +33,14 @@
 ---
 
 ## 📫 Contact Me
-- Email: **your-email@gmail.com**
-- LinkedIn: **your-linkedin-link**
-- GitHub: **your-github-username**
-
----
-
-## 👨‍💻 Portfolio
-👉 Add your portfolio link here
+- 📧 Email: **saisanket232@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/sai-sanket-m-13m/
+- 💻 GitHub: https://github.com/saisanket232
 
 ---
 
 ## 📄 Resume
-👉 Add your resume link here
+👉 https://drive.google.com/file/d/1hxNy7rJMMvuU-tHKCJHvQl6bxwYjWhSz/view?usp=sharing
 
 ---
 
@@ -72,23 +67,23 @@
 ---
 
 ## 📊 GitHub Stats
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisanket232&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=saisanket232&theme=radical)
 
 ---
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisanket232&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn
-- GitHub
-- Email
+- LinkedIn: https://www.linkedin.com/in/sai-sanket-m-13m/
+- GitHub: https://github.com/saisanket232
+- Email: saisanket232@gmail.com
 
 ---
