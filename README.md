@@ -35,9 +35,9 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **saisanket232@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/sai-sanket-m-13m/
-- 💻 GitHub: https://github.com/saisanket232
+- 📧 [Email Me](mailto:saisanket232@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-sanket-m-13m/)
+- 💻 [GitHub](https://github.com/saisanket232)
 
 ---
 
@@ -65,27 +65,5 @@
 
 ### 🛠️ Tools
 `Git` `GitHub` `Docker` `VS Code`
-
----
-
-## 📊 GitHub Stats
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisanket232&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=saisanket232&theme=radical)
-
----
-
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saisanket232&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sai-sanket-m-13m/
-- GitHub: https://github.com/saisanket232
-- Email: saisanket232@gmail.com
 
 ---
