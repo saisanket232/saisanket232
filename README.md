@@ -42,7 +42,7 @@
 ---
 
 ## 📄 Resume
-👉 [View My Resume](https://drive.google.com/file/d/1fA9cqOvFe_RWgr8vhQEPV5BoZaB_CiY3/view?usp=sharing)
+👉 [View My Resume](https://drive.google.com/file/d/1rtJklrLxSnKAYWhPj9pZSTC_9IxiA7sf/view?usp=sharing)
 
 ---
 
